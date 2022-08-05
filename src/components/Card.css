@@ -1,0 +1,8 @@
+.cardlist {
+    background-color:#212121;
+    transition: 0.6s;
+}
+.cardlist:hover {
+    transition: 0.6s;
+    background-color:#373737;
+}

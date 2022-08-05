@@ -1,0 +1,8 @@
+{
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "prettier.endOfLine": "auto",
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 100
+}
